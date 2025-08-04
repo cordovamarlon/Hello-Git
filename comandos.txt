@@ -1,2 +1,4 @@
+En el archivo .gitconfig se puede ver esta configuración. Suele estar en el directorio del usuario
+
 git config --global user.name "JuanRisueno"
 git config --global user.email "risu.profesional@gmail.com"
